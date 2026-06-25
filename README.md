@@ -1,5 +1,5 @@
 ## Beginner programmer currently learning python & the basics.
-# I Look forward to uploading projects here in the future.
+#### I Look forward to uploading projects here in the future.
 
 <!--
 **Rosie1204/rosie1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
